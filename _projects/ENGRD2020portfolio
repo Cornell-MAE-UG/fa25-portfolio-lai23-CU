@@ -1,13 +1,13 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# --- Design space (cm) ---
+# Design space (cm)
 Lx, Ly = 150.0, 50.0
 
-# --- Actuator specs (IMA55 RN05, strongest option) ---
+#Actuator specs (IMA55 RN05, strongest option)
 F_actuator_max = 8050  # N peak thrust
 
-# --- Sweep joint heights ---
+# Sweep joint heights
 y_vals = np.linspace(5, Ly, 200)
 W_vals = []
 
@@ -28,7 +28,7 @@ for y_joint in y_vals:
 
 W_vals = np.array(W_vals)
 
-# --- Normalize for tradeoff analysis ---
+#Normalize for tradeoff analysis
 h_norm = (y_vals - y_vals.min()) / (y_vals.max() - y_vals.min())
 w_norm = (W_vals - W_vals.min()) / (W_vals.max() - W_vals.min())
 
@@ -51,7 +51,7 @@ print("=== Optimized Height–Weight Tradeoff (Knee Point) ===")
 print(f"  Optimal lift height: {opt_height:.2f} cm")
 print(f"  Optimal supported weight: {opt_weight:.2f} N")
 
-# --- Plot tradeoff curve ---
+#Plot tradeoff curve
 plt.figure(figsize=(7,5))
 plt.plot(y_vals, W_vals/1000, label="Tradeoff Curve (Weight vs Height)")
 plt.scatter(opt_height, opt_weight/1000, color='red', zorder=5, label="Optimal Tradeoff Point")
