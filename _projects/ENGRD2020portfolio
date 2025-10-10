@@ -47,7 +47,7 @@ opt_index = np.argmax(distances)
 opt_height = y_vals[opt_index]
 opt_weight = W_vals[opt_index]
 
-print("=== Optimized Height–Weight Tradeoff (Knee Point) ===")
+print("=== Optimized Height–Weight Tradeoff ===")
 print(f"  Optimal lift height: {opt_height:.2f} cm")
 print(f"  Optimal supported weight: {opt_weight:.2f} N")
 
