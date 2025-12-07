@@ -67,3 +67,5 @@ plt.title("Optimized Height–Weight Tradeoff (IMA55)")
 plt.grid(True)
 plt.legend()
 plt.show()
+
+![Statics 3 Diagram](/assets/Statics%203%20(1)-1.png)
