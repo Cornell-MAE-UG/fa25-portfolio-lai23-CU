@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Lisa Iizuka
 description              : Lisa Iizuka - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "" # /fa25-portfolio-lai23-CU
 
 # Theme and Style
 theme: jekyll-theme-minimal
