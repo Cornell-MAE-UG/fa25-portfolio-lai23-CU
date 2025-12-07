@@ -1,6 +1,7 @@
 ---
 layout: project
 title: ENGRD 2020 Portfolio
+image: /assets/img/engrd2020portfolio.png
 permalink: /ENGRD2020portfolio/
 ---
 
@@ -65,6 +66,3 @@ plt.title("Optimized Height–Weight Tradeoff (IMA55)")
 plt.grid(True)
 plt.legend()
 plt.show()
-
-
-![Statics 3 Diagram](/assets/Statics%203%20(1)-1.png)
