@@ -1,4 +1,3 @@
-```md
 ---
 layout: project
 title: ENGRD 2020 Portfolio
@@ -67,3 +66,6 @@ plt.title("Optimized Height–Weight Tradeoff (IMA55)")
 plt.grid(True)
 plt.legend()
 plt.show()
+```
+
+![Statics 3 Diagram](/assets/images/Statics%203%20(1)-1.png)
