@@ -1,3 +1,9 @@
+---
+layout: project
+title: ENGRD 2020 Portfolio
+image: /assets/img/engrd2020portfolio.png
+permalink: /ENGRD2020portfolio/
+---
 import numpy as np
 import matplotlib.pyplot as plt
 
