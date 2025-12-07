@@ -1,6 +1,7 @@
 ---
 layout: project
 title: "HW12: Rigid and Flexible Bar Lifting Mechanism"
+image: /assets/1765122949657-91705ae7-2b07-4980-aceb-118a78205956_1.png
 ---
 
 ## Step 1a — Problem Definition, Constraints, Objectives, and Design Degrees of Freedom
