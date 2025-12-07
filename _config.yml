@@ -13,7 +13,10 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Lisa Iizuka
 description              : Lisa Iizuka - Projects and CV 
-baseurl                  : "" # /fa25-portfolio-lai23-CU
+
+baseurl: "/fa25-portfolio-lai23-CU"
+url: "https://cornell-mae-ug.github.io"
+
 
 # Theme and Style
 theme: jekyll-theme-minimal
