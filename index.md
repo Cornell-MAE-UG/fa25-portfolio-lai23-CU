@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: <Lisa Iizuka>
 ---
 
 ## About Me
