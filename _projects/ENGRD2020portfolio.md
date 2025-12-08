@@ -68,4 +68,4 @@ plt.legend()
 plt.show()
 ```
 
-![Statics 3 Diagram](/assets/images/Statics%203%20(1)-1.png)
+![Statics 3 Diagram]({{ site.baseurl }}/assets/images/Statics%203%20(1)-1.png)
