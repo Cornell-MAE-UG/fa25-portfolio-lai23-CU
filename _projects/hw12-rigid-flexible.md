@@ -102,9 +102,8 @@ This design is used as the baseline geometry for Step 2, where the bar is no lon
 
 ## PDF Page Images
 
-![HW12 Page 1](/fa25-portfolio-lai23-CU/assets/images/1765122949657-91705ae7-2b07-4980-aceb-118a78205956_1.png)
+![HW12 Page 1]({{ site.baseurl }}/assets/images/1765122949657-91705ae7-2b07-4980-aceb-118a78205956_1.png)
+![HW12 Page 2]({{ site.baseurl }}/assets/images/1765122949657-91705ae7-2b07-4980-aceb-118a78205956_2.png)
+![HW12 Page 3]({{ site.baseurl }}/assets/images/1765122949657-91705ae7-2b07-4980-aceb-118a78205956_3.png)
 
-![HW12 Page 2](/fa25-portfolio-lai23-CU/assets/images/1765122949657-91705ae7-2b07-4980-aceb-118a78205956_2.png)
-
-![HW12 Page 3](/fa25-portfolio-lai23-CU/assets/images/1765122949657-91705ae7-2b07-4980-aceb-118a78205956_3.png)
 
