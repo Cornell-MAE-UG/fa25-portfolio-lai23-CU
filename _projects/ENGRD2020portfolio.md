@@ -1,7 +1,7 @@
 ---
 layout: project
 title: ENGRD 2020 Portfolio
-image: /assets/img/engrd2020portfolio.png
+image: /assets/image/engrd2020portfolio.png
 permalink: /ENGRD2020portfolio/
 ---
 
